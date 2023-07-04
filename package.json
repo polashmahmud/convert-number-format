@@ -1,0 +1,24 @@
+{
+  "name": "convert-number-format",
+  "version": "1.0.0",
+  "description": "A package to convert number formats",
+  "main": "index.js",
+  "keywords": [
+    "convert",
+    "number",
+    "format"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Polash Mahmud",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/polashmahmud/convert-number-format"
+  },
+  "bugs": {
+    "url": "https://github.com/polashmahmud/convert-number-format/issues"
+  },
+  "homepage": "https://github.com/polashmahmud/convert-number-format#readme"
+}
